@@ -8,3 +8,11 @@ The difference is if you build from source, then you can enable or disable some 
 
 * [How to use OpenCV imshow() in a Jupyter Notebook — Quick Tip](https://medium.com/@mrdatainsight/how-to-use-opencv-imshow-in-a-jupyter-notebook-quick-tip-ce83fa32b5ad)
 * [Error (-215) size.width>0 && size.height>0](https://stackoverflow.com/questions/43572387/error-215-size-width0-size-height0-occurred-when-attempting-to-display-a)
+
+# know your color
+[色彩空间中的 HSL、HSV、HSB 有什么区别？](https://www.zhihu.com/question/22077462)  
+[Color spaces in OpenCV](https://www.learnopencv.com/color-spaces-in-opencv-cpp-python/)  
+[CIELAB color space](https://en.wikipedia.org/wiki/CIELAB_color_space)  
+
+# basic process  
+[【影像處理】灰階直方圖均化 Histogram Equalization](https://jason-chen-1992.weebly.com/home/-histogram-equalization)  
