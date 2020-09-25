@@ -16,3 +16,4 @@ The difference is if you build from source, then you can enable or disable some 
 
 # basic process  
 [【影像處理】灰階直方圖均化 Histogram Equalization](https://jason-chen-1992.weebly.com/home/-histogram-equalization)  
+[Question on Histogram Equalization](https://www.youtube.com/watch?v=Bb6XRgIogJY)  
