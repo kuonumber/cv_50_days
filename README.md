@@ -17,5 +17,6 @@ The difference is if you build from source, then you can enable or disable some 
 # basic process  
 [【影像處理】灰階直方圖均化 Histogram Equalization](https://jason-chen-1992.weebly.com/home/-histogram-equalization)  
 [Question on Histogram Equalization](https://www.youtube.com/watch?v=Bb6XRgIogJY)  
-[OpenCV, NumPy: Rotate and flip image](https://note.nkmk.me/en/python-opencv-numpy-rotate-flip/)
-[图像翻转¶](http://www.1zlab.com/wiki/python-opencv-tutorial/opencv-filp/)
+[OpenCV, NumPy: Rotate and flip image](https://note.nkmk.me/en/python-opencv-numpy-rotate-flip/)  
+[图像翻转¶](http://www.1zlab.com/wiki/python-opencv-tutorial/opencv-filp/)  
+[Numpy 进阶(二) —— 对图像进行角度旋转、水平、垂直镜像操作！](https://blog.csdn.net/weixin_42512684/article/details/105189892)  
