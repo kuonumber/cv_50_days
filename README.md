@@ -31,7 +31,12 @@ The difference is if you build from source, then you can enable or disable some 
 [OpenCV, NumPy: Rotate and flip image](https://note.nkmk.me/en/python-opencv-numpy-rotate-flip/)  
 [图像翻转¶](http://www.1zlab.com/wiki/python-opencv-tutorial/opencv-filp/)  
 [Numpy 进阶(二) —— 对图像进行角度旋转、水平、垂直镜像操作！](https://blog.csdn.net/weixin_42512684/article/details/105189892)  
->>>>>>> e72824577b5b98ef0c3f6dfc74c22729f87659f4
+
+# D22
+[Selective Search](https://blog.gtwang.org/programming/selective-search-for-object-detection/)  
+
+# videos  
+[Object Detection Sliding Window](https://www.youtube.com/watch?v=5e5pjeojznk)  
 
 # 資料集
 [NEU surface defect database](http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html)  
