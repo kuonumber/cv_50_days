@@ -38,6 +38,16 @@ The difference is if you build from source, then you can enable or disable some 
 # videos  
 [Object Detection Sliding Window](https://www.youtube.com/watch?v=5e5pjeojznk)  
 
+# 補充資料
+## 模型原理解釋
+[一文读懂卷积神经网络中的1x1卷积核](https://zhuanlan.zhihu.com/p/40050371)  
+[深度神经网络中的感受野(Receptive Field)](https://zhuanlan.zhihu.com/p/28492837)  
+## 資料增強
+[深度学习领域的数据增强](https://www.jiqizhixin.com/articles/2019-12-04-10)  
+[Data Augmentation 資料增強](https://chtseng.wordpress.com/2017/11/11/data-augmentation-%E8%B3%87%E6%96%99%E5%A2%9E%E5%BC%B7/)
+[ImageDataGenerator生成器的flow，flow_from_directory用法](https://blog.csdn.net/mieleizhi0522/article/details/82191331)  
+
+
 # 資料集
 [NEU surface defect database](http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html)  
 [stanford cars](http://ai.stanford.edu/~jkrause/cars/car_dataset.html)  
