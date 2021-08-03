@@ -35,6 +35,9 @@ The difference is if you build from source, then you can enable or disable some 
 # D22
 [Selective Search](https://blog.gtwang.org/programming/selective-search-for-object-detection/)  
 
+# D29
+[图解YOLO](https://zhuanlan.zhihu.com/p/24916786?utm_source=qq&utm_medium=social)  
+
 # videos  
 [Object Detection Sliding Window](https://www.youtube.com/watch?v=5e5pjeojznk)  
 
@@ -46,7 +49,9 @@ The difference is if you build from source, then you can enable or disable some 
 [深度学习领域的数据增强](https://www.jiqizhixin.com/articles/2019-12-04-10)  
 [Data Augmentation 資料增強](https://chtseng.wordpress.com/2017/11/11/data-augmentation-%E8%B3%87%E6%96%99%E5%A2%9E%E5%BC%B7/)
 [ImageDataGenerator生成器的flow，flow_from_directory用法](https://blog.csdn.net/mieleizhi0522/article/details/82191331)  
-
+[cnn-explainer](https://poloclub.github.io/cnn-explainer/)  
+[Image Augmentation on the fly using Keras ImageDataGenerator!](https://ai.recodeminds.com/resources/image-augmentation-on-the-fly-using-keras-imagedatagenerator/)
+[Exploring Data Augmentation with Keras and TensorFlow](https://towardsdatascience.com/exploring-image-data-augmentation-with-keras-and-tensorflow-a8162d89b844)  
 
 # 資料集
 [NEU surface defect database](http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html)  
